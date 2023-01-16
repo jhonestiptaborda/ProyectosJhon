@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Proy_3_Colores"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Proy_4_Formulario"
+	}
+}
